@@ -1,2 +1,6 @@
 # Georgian_earthquakes
-The records are scraped from Georgia's National Seismic Monitoring Centre website (ies.iliauni.edu.ge) and contain data since 07.14.2021. This dataset contains only relatively strong (mostly 2+ magnitude) earthquakes recorded in Georgia, however this does not mean that all earthquakes' epicenters were in Georgia.
+
+1. The records are scraped from Georgia's National Seismic Monitoring Centre website and contain data since 07.14.2021.
+2. This data contains only relatively strong (mostly 2+ magnitude) earthquakes recorded in Georgia
+3. The recorded earthquake's epicenter may or may not be located on Georgian territory
+4. Each run of scraper will add new records (if there are any) to a local database
